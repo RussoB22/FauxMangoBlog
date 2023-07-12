@@ -1,0 +1,22 @@
+{
+  "name": "26-Stu_Mongoose-CRUD",
+  "version": "1.0.0",
+  "description": "Reverse engineer developer activity for CRUD methods in Mongoose",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "seed": "node utils/seed"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}

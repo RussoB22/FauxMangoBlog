@@ -18,6 +18,7 @@ Clone the repo, npm i, and npm run seed.
 
 ## Usage
 After seeding, run the server with npm run start then follow along with the included video.
+Video Link: https://youtu.be/5pWq2dZh-8M
 
 ## Contributing
 If you've made an approved pull request, you're a contributer.
